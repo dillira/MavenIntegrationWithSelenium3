@@ -1,0 +1,192 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Security">
+
+
+<test name="Specifications">
+<classes>
+<class name="com.hasbrop2m.security.Specifications">
+</class></classes>
+</test>
+
+
+<test name="Season">
+<classes>
+<class name="com.hasbrop2m.security.Season">
+</class></classes>
+</test>
+
+<test name="Country">
+<classes>
+<class name="com.hasbrop2m.security.Country">
+</class></classes>
+</test>
+
+<test name="SourcingConfig">
+<classes>
+<class name="com.hasbrop2m.security.SourcingConfig">
+</class></classes>
+</test>
+
+<test name="BOMMaterialMainUser">
+<classes>
+<class name="com.hasbrop2m.security.BOMMaterialMainUser">
+</class></classes>
+</test>
+
+<test name="ExternalBOM">
+<classes>
+<class name="com.hasbrop2m.security.ExternalBOM">
+</class></classes>
+</test>
+
+<test name="MaterialBOM">
+<classes>
+<class name="com.hasbrop2m.security.MaterialBOM">
+</class>
+</classes>
+</test>
+
+<test name="BOMExternalMainUser">
+<classes>
+<class name="com.hasbrop2m.security.BOMExternalMainUser">
+</class></classes>
+</test>
+
+<test name="Product">
+<classes>
+<class name="com.hasbrop2m.security.Product">
+</class></classes>
+</test>
+
+
+<test name="CostsheetExternalRetail">
+<classes>
+<class name="com.hasbrop2m.security.CostsheetExternalRetail">
+</class>
+</classes>
+</test>
+
+
+<test name="CSInternalRetailToolingMainUser">
+<classes>
+<class name="com.hasbrop2m.security.CSInternalRetailToolingMainUser">
+</class>
+</classes>
+</test>
+
+<test name="CostsheetTooling">
+<classes>
+<class name="com.hasbrop2m.security.CostsheetTooling">
+</class>
+</classes>
+</test>
+
+<test name="CostsheetInternal">
+<classes>
+<class name="com.hasbrop2m.security.CostsheetInternal">
+</class>
+</classes>
+</test>
+
+<test name="CSVendorRetailMainUser">
+<classes>
+<class name="com.hasbrop2m.security.CSVendorRetailMainUser">
+</class>
+</classes>
+</test>
+
+<test name="BOMInternalMainUser">
+<classes>
+<class name="com.hasbrop2m.security.BOMInternalMainUser">
+</class>
+</classes>
+</test>
+
+<test name="CSInternalRetailMainUser">
+<classes>
+<class name="com.hasbrop2m.security.CSInternalRetailMainUser">
+</class>
+</classes>
+</test>
+
+<test name="CSInternalProdMainUser">
+<classes>
+<class name="com.hasbrop2m.security.CSInternalProdMainUser">
+</class>
+</classes>
+</test>
+
+<test name="CostsheetExternalProduct">
+<classes>
+<class name="com.hasbrop2m.security.CostsheetExternalProduct">
+</class>
+</classes>
+</test>
+
+
+
+<test name="CSVendorRetailToolingMainUser">
+<classes>
+<class name="com.hasbrop2m.security.CSVendorRetailToolingMainUser">
+</class>
+</classes>
+</test>
+
+<test name="CSVendorProductMainUser">
+<classes>
+<class name="com.hasbrop2m.security.CSVendorProductMainUser">
+</class>
+</classes>
+</test>
+
+
+<test name="Color">
+<classes>
+<class name="com.hasbrop2m.security.Color">
+</class></classes>
+</test>
+
+<test name="InternalBOMSoftG">
+<classes>
+<class name="com.hasbrop2m.security.InternalBOMSoftG">
+</class></classes>
+</test>
+
+
+
+<test name="Colorway">
+<classes>
+<class name="com.hasbrop2m.security.Colorway">
+</class></classes>
+</test>
+
+<test name="Packaging">
+	<classes>
+		<class name="com.hasbrop2m.security.Packaging">
+		</class>
+	</classes>
+</test>
+
+<test name="ChangeActivity">
+<classes>
+<class name="com.hasbrop2m.security.ChangeActivity">
+</class></classes>
+</test>
+
+
+
+<test name="Supplier">
+<classes>
+<class name="com.hasbrop2m.security.Supplier">
+</class></classes>
+</test>
+
+
+<test name="RFQ">
+<classes>
+<class name="com.hasbrop2m.security.RFQ">
+</class></classes>
+</test>
+
+
+</suite>

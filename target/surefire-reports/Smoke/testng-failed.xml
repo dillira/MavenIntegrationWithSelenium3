@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Smoke]">
+  <test thread-count="5" verbose="0" name="SanitySuite1(failed)">
+    <classes>
+      <class name="com.hasbrop2m.sanity.SanitySuite1">
+        <methods>
+          <include name="Refresh"/>
+          <include name="tcSCFunctional" invocation-numbers="1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34"/>
+          <include name="reporterdataSetResult"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.sanity.SanitySuite1 -->
+    </classes>
+  </test> <!-- SanitySuite1(failed) -->
+  <test thread-count="5" verbose="0" name="SanitySuite3(failed)">
+    <classes>
+      <class name="com.hasbrop2m.sanity.SanitySuite3">
+        <methods>
+          <include name="tcSCFunctional"/>
+          <include name="reporterdataSetResult"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.sanity.SanitySuite3 -->
+    </classes>
+  </test> <!-- SanitySuite3(failed) -->
+  <test thread-count="5" verbose="0" name="SanitySuite2(failed)">
+    <classes>
+      <class name="com.hasbrop2m.sanity.SanitySuite2">
+        <methods>
+          <include name="tcSCFunctional"/>
+          <include name="Refresh"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.sanity.SanitySuite2 -->
+    </classes>
+  </test> <!-- SanitySuite2(failed) -->
+  <test thread-count="5" verbose="0" name="SanitySuite_AssortmentRetail(failed)">
+    <classes>
+      <class name="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+        <methods>
+          <include name="tcSCFunctional"/>
+          <include name="Refresh"/>
+          <include name="reporterdataSetResult"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.sanity.SanitySuite_AssortmentRetail -->
+    </classes>
+  </test> <!-- SanitySuite_AssortmentRetail(failed) -->
+  <test thread-count="5" verbose="0" name="SanitySuiteUpdateProductName(failed)">
+    <classes>
+      <class name="com.hasbrop2m.sanity.SanitySuiteUpdateProductName">
+        <methods>
+          <include name="Refresh"/>
+          <include name="reporterdataSetResult"/>
+          <include name="tcSCFunctional"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.sanity.SanitySuiteUpdateProductName -->
+    </classes>
+  </test> <!-- SanitySuiteUpdateProductName(failed) -->
+  <test thread-count="5" verbose="0" name="SanitySuite5_WorkFlow(failed)">
+    <classes>
+      <class name="com.hasbrop2m.sanity.SanitySuite5_WorkFlow">
+        <methods>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="tcSCFunctional"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="Refresh"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.sanity.SanitySuite5_WorkFlow -->
+    </classes>
+  </test> <!-- SanitySuite5_WorkFlow(failed) -->
+  <test thread-count="5" verbose="0" name="SanitySuite2018(failed)">
+    <classes>
+      <class name="com.hasbrop2m.sanity.SanitySuite2018">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="tcSCFunctional"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.sanity.SanitySuite2018 -->
+    </classes>
+  </test> <!-- SanitySuite2018(failed) -->
+  <test thread-count="5" verbose="0" name="SanitySuite5_Workflow2(failed)">
+    <classes>
+      <class name="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
+        <methods>
+          <include name="tcSCFunctional"/>
+          <include name="reporterdataSetResult"/>
+          <include name="Refresh"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.sanity.SanitySuite5_Workflow2 -->
+    </classes>
+  </test> <!-- SanitySuite5_Workflow2(failed) -->
+  <test thread-count="5" verbose="0" name="SanitySuite4(failed)">
+    <classes>
+      <class name="com.hasbrop2m.sanity.SanitySuite4">
+        <methods>
+          <include name="tcSanitySuite4"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.sanity.SanitySuite4 -->
+    </classes>
+  </test> <!-- SanitySuite4(failed) -->
+</suite> <!-- Failed suite [Smoke] -->

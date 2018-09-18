@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [views]">
+  <test name="BOMView(failed)">
+    <classes>
+      <class name="com.hasbrop2m.views.BOMView">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="tcView"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.views.BOMView -->
+    </classes>
+  </test> <!-- BOMView(failed) -->
+  <test name="CostSheetView(failed)">
+    <classes>
+      <class name="com.hasbrop2m.views.CostSheetView">
+        <methods>
+          <include name="reportTestcaseResult"/>
+          <include name="tcView"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.views.CostSheetView -->
+    </classes>
+  </test> <!-- CostSheetView(failed) -->
+  <test name="LineSheetView(failed)">
+    <classes>
+      <class name="com.hasbrop2m.views.LineSheetView">
+        <methods>
+          <include name="tclsView"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.views.LineSheetView -->
+    </classes>
+  </test> <!-- LineSheetView(failed) -->
+</suite> <!-- Failed suite [views] -->

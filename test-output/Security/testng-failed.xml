@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Security]">
+  <test name="Specifications(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.Specifications">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="tcSpecifications"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.Specifications -->
+    </classes>
+  </test> <!-- Specifications(failed) -->
+  <test name="Season(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.Season">
+        <methods>
+          <include name="checkTestcaseSkip"/>
+          <include name="tcSeason"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.Season -->
+    </classes>
+  </test> <!-- Season(failed) -->
+  <test name="Country(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.Country">
+        <methods>
+          <include name="tcSupplier"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.Country -->
+    </classes>
+  </test> <!-- Country(failed) -->
+  <test name="SourcingConfig(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.SourcingConfig">
+        <methods>
+          <include name="checkTestcaseSkip"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="tcSourcingConfig"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.SourcingConfig -->
+    </classes>
+  </test> <!-- SourcingConfig(failed) -->
+  <test name="BOMMaterialMainUser(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.BOMMaterialMainUser">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="tcBOM"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.BOMMaterialMainUser -->
+    </classes>
+  </test> <!-- BOMMaterialMainUser(failed) -->
+  <test name="ExternalBOM(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.ExternalBOM">
+        <methods>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="tcbom"/>
+          <include name="reportTestcaseResult"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.ExternalBOM -->
+    </classes>
+  </test> <!-- ExternalBOM(failed) -->
+  <test name="MaterialBOM(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.MaterialBOM">
+        <methods>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reporterdataSetResult"/>
+          <include name="tcBOM"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.MaterialBOM -->
+    </classes>
+  </test> <!-- MaterialBOM(failed) -->
+  <test name="BOMExternalMainUser(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.BOMExternalMainUser">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+          <include name="tcBOM"/>
+          <include name="checkSuiteSkipTest"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.BOMExternalMainUser -->
+    </classes>
+  </test> <!-- BOMExternalMainUser(failed) -->
+  <test name="Product(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.Product">
+        <methods>
+          <include name="reportTestcaseResult"/>
+          <include name="tcProduct"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.Product -->
+    </classes>
+  </test> <!-- Product(failed) -->
+  <test name="CostsheetExternalRetail(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CostsheetExternalRetail">
+        <methods>
+          <include name="tcCostSheet"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CostsheetExternalRetail -->
+    </classes>
+  </test> <!-- CostsheetExternalRetail(failed) -->
+  <test name="CSInternalRetailToolingMainUser(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CSInternalRetailToolingMainUser">
+        <methods>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="tcCostSheet"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CSInternalRetailToolingMainUser -->
+    </classes>
+  </test> <!-- CSInternalRetailToolingMainUser(failed) -->
+  <test name="CostsheetTooling(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CostsheetTooling">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="tcCostSheet"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CostsheetTooling -->
+    </classes>
+  </test> <!-- CostsheetTooling(failed) -->
+  <test name="CostsheetInternal(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CostsheetInternal">
+        <methods>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reporterdataSetResult"/>
+          <include name="tcCostSheet"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CostsheetInternal -->
+    </classes>
+  </test> <!-- CostsheetInternal(failed) -->
+  <test name="CSVendorRetailMainUser(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CSVendorRetailMainUser">
+        <methods>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="tcCostSheet"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CSVendorRetailMainUser -->
+    </classes>
+  </test> <!-- CSVendorRetailMainUser(failed) -->
+  <test name="BOMInternalMainUser(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.BOMInternalMainUser">
+        <methods>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="tcBOM"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.BOMInternalMainUser -->
+    </classes>
+  </test> <!-- BOMInternalMainUser(failed) -->
+  <test name="CSInternalRetailMainUser(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CSInternalRetailMainUser">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="tcCostSheet"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CSInternalRetailMainUser -->
+    </classes>
+  </test> <!-- CSInternalRetailMainUser(failed) -->
+  <test name="CSInternalProdMainUser(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CSInternalProdMainUser">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="tcCostSheet"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CSInternalProdMainUser -->
+    </classes>
+  </test> <!-- CSInternalProdMainUser(failed) -->
+  <test name="CostsheetExternalProduct(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CostsheetExternalProduct">
+        <methods>
+          <include name="tcCostSheet"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CostsheetExternalProduct -->
+    </classes>
+  </test> <!-- CostsheetExternalProduct(failed) -->
+  <test name="CSVendorRetailToolingMainUser(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CSVendorRetailToolingMainUser">
+        <methods>
+          <include name="tcCostSheet"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CSVendorRetailToolingMainUser -->
+    </classes>
+  </test> <!-- CSVendorRetailToolingMainUser(failed) -->
+  <test name="CSVendorProductMainUser(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.CSVendorProductMainUser">
+        <methods>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="tcCostSheet"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.CSVendorProductMainUser -->
+    </classes>
+  </test> <!-- CSVendorProductMainUser(failed) -->
+  <test name="Color(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.Color">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="tcColor"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.Color -->
+    </classes>
+  </test> <!-- Color(failed) -->
+  <test name="InternalBOMSoftG(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.InternalBOMSoftG">
+        <methods>
+          <include name="checkTestcaseSkip"/>
+          <include name="reporterdataSetResult"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="tcBOM"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.InternalBOMSoftG -->
+    </classes>
+  </test> <!-- InternalBOMSoftG(failed) -->
+  <test name="Colorway(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.Colorway">
+        <methods>
+          <include name="tcColor"/>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.Colorway -->
+    </classes>
+  </test> <!-- Colorway(failed) -->
+  <test name="Packaging(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.Packaging">
+        <methods>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="tcPackaging"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.Packaging -->
+    </classes>
+  </test> <!-- Packaging(failed) -->
+  <test name="ChangeActivity(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.ChangeActivity">
+        <methods>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="tcRCA"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.ChangeActivity -->
+    </classes>
+  </test> <!-- ChangeActivity(failed) -->
+  <test name="Supplier(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.Supplier">
+        <methods>
+          <include name="reporterdataSetResult"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="tcSupplier"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.Supplier -->
+    </classes>
+  </test> <!-- Supplier(failed) -->
+  <test name="PlaceHolderDevPlan(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.PlaceHolderDevPlan">
+        <methods>
+          <include name="checkTestcaseSkip"/>
+          <include name="tcPlaceHolderDevPlan"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reporterdataSetResult"/>
+          <include name="reportTestcaseResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.PlaceHolderDevPlan -->
+    </classes>
+  </test> <!-- PlaceHolderDevPlan(failed) -->
+  <test name="Sample(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.Sample">
+        <methods>
+          <include name="tcSample"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reportTestcaseResult"/>
+          <include name="checkTestcaseSkip"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.Sample -->
+    </classes>
+  </test> <!-- Sample(failed) -->
+  <test name="GlobalLinePlan(failed)">
+    <classes>
+      <class name="com.hasbrop2m.security.GlobalLinePlan">
+        <methods>
+          <include name="checkTestcaseSkip"/>
+          <include name="reportTestcaseResult"/>
+          <include name="tcGlobalLinePlan"/>
+          <include name="checkSuiteSkipTest"/>
+          <include name="reporterdataSetResult"/>
+        </methods>
+      </class> <!-- com.hasbrop2m.security.GlobalLinePlan -->
+    </classes>
+  </test> <!-- GlobalLinePlan(failed) -->
+</suite> <!-- Failed suite [Security] -->

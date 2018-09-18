@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SanitySuite1"
+           tests="35"
+           failures="0"
+           errors="0"
+           skipped="34"
+           time="81.700">
+  <properties />
+  
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+            <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
+          <skipped />
+    </testcase>
+  
+            <testcase name="tcSCFunctional" time="81.681" classname="com.hasbrop2m.sanity.SanitySuite1" />
+      
+</testsuite>

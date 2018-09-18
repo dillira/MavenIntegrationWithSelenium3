@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SanitySuite4"
+           tests="32"
+           failures="0"
+           errors="0"
+           skipped="32"
+           time="0.002">
+  <properties />
+  
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="checkTestcaseSkip" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reportTestcaseResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+            <testcase name="tcSanitySuite4" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite4">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

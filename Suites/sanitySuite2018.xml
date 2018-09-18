@@ -1,0 +1,59 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke">
+
+
+<test name="SanitySuite1">
+<classes>
+<class name="com.hasbrop2m.sanity.SanitySuite1">
+</class></classes>
+</test>
+
+<test name="SanitySuite3">
+<classes>
+<class name="com.hasbrop2m.sanity.SanitySuite3">
+</class></classes>
+</test>
+
+<test name="SanitySuite2">
+<classes>
+<class name="com.hasbrop2m.sanity.SanitySuite2">
+</class></classes>               
+</test>
+
+<test name="SanitySuite_AssortmentRetail">
+<classes>
+<class name="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+</class></classes>               
+</test>
+
+<test name="SanitySuiteUpdateProductName">
+<classes>
+<class name="com.hasbrop2m.sanity.SanitySuiteUpdateProductName">
+</class></classes>               
+</test>
+
+<test name="SanitySuite5_WorkFlow">
+<classes>
+<class name="com.hasbrop2m.sanity.SanitySuite5_WorkFlow">
+</class></classes>               
+</test>
+
+<test name="SanitySuite2018">
+<classes>
+<class name="com.hasbrop2m.sanity.SanitySuite2018">
+</class></classes>
+</test>
+
+<test name="SanitySuite5_Workflow2">
+<classes>
+<class name="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
+</class></classes>
+</test>
+
+<test name="SanitySuite4">
+<classes>
+<class name="com.hasbrop2m.sanity.SanitySuite4">
+</class></classes>               
+</test>
+</suite>
+

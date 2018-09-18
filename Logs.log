@@ -1,0 +1,171 @@
+18/09/2018 18:46:59 devpinoyLogger read from properties file successfully
+18/09/2018 18:47:13 devpinoyLogger Initiallized
+18/09/2018 18:47:13 devpinoyLogger No Driver is Launched
+18/09/2018 18:47:13 devpinoyLogger Inside testcase for Sanity suite
+18/09/2018 18:47:13 devpinoyLogger col0 :badmin
+18/09/2018 18:47:13 devpinoyLogger col1 :badmin
+18/09/2018 18:47:13 devpinoyLogger col1 :M04 - Update Wave Forecast Quantities - Manual
+18/09/2018 18:47:18 devpinoyLogger Url: https://badmin:badmin@hasbroplm-test.ptcmanaged.com/Windchill/rfa/jsp/main/Main.jsp
+18/09/2018 18:47:31 devpinoyLogger Home page is present
+18/09/2018 18:47:32 devpinoyLogger Clicking on My Season link button.
+18/09/2018 18:47:32 devpinoyLogger Selected 2019 option from drop down.
+18/09/2018 18:47:35 devpinoyLogger Clicking on Line Sheet button.
+18/09/2018 18:47:38 devpinoyLogger Selected Development Plan option from drop down.
+18/09/2018 18:47:40 devpinoyLogger Selected Create New: Product option from drop down.
+18/09/2018 18:47:51 devpinoyLogger Clicking on Product Type button.
+18/09/2018 18:47:52 devpinoyLogger Entered 3bS4 in the text field.
+18/09/2018 18:47:52 devpinoyLogger Entered GAMES in the text field.
+18/09/2018 18:47:53 devpinoyLogger Entered ADULT in the text field.
+18/09/2018 18:47:53 devpinoyLogger Entered AVALON HILL in the text field.
+18/09/2018 18:47:53 devpinoyLogger Entered BOYS in the text field.
+18/09/2018 18:47:53 devpinoyLogger Selected Assortment option from drop down.
+18/09/2018 18:47:54 devpinoyLogger Selected Not IP Sensitive (Open) option from drop down.
+18/09/2018 18:47:57 devpinoyLogger Clicking on Save button.
+18/09/2018 18:47:58 devpinoyLogger Product Number is E7874
+18/09/2018 18:47:58 devpinoyLogger Entered Mainline in the text field.
+18/09/2018 18:47:58 devpinoyLogger Entered 4.0 in the text field.
+18/09/2018 18:47:59 devpinoyLogger Entered 6.0 in the text field.
+18/09/2018 18:47:59 devpinoyLogger Entered 8.0 in the text field.
+18/09/2018 18:47:59 devpinoyLogger Entered 21.0 in the text field.
+18/09/2018 18:47:59 devpinoyLogger Entered 21.0 in the text field.
+18/09/2018 18:48:00 devpinoyLogger Entered 52.0 in the text field.
+18/09/2018 18:48:00 devpinoyLogger Entered 25.0 in the text field.
+18/09/2018 18:48:00 devpinoyLogger Entered 25.0 in the text field.
+18/09/2018 18:48:00 devpinoyLogger Entered 52.0 in the text field.
+18/09/2018 18:48:01 devpinoyLogger Clicking on Manual Input Wave Forcast button.
+18/09/2018 18:48:01 devpinoyLogger User allowed to give value only in Forecast Qty columns because ManualInputWaveForeCastValue is Yes
+18/09/2018 18:48:01 devpinoyLogger User not allowed to give value in % waveForecast columns because ManualInputWaveForeCastValue is Yes
+18/09/2018 18:48:03 devpinoyLogger Clicking on View Product button.
+18/09/2018 18:48:04 devpinoyLogger View Season Product Information
+18/09/2018 18:48:04 devpinoyLogger View Season Product Information apge successfully appears
+18/09/2018 18:48:08 devpinoyLogger Clicking on Details button.
+18/09/2018 18:48:12 devpinoyLogger Clicking on Details button.
+18/09/2018 18:48:13 devpinoyLogger table is clicked.
+18/09/2018 18:48:13 devpinoyLogger Entered 100 in the text field.
+18/09/2018 18:48:13 devpinoyLogger value entered for column 1
+18/09/2018 18:48:13 devpinoyLogger table is clicked.
+18/09/2018 18:48:14 devpinoyLogger Entered 120 in the text field.
+18/09/2018 18:48:14 devpinoyLogger value entered for column 2
+18/09/2018 18:48:14 devpinoyLogger table is clicked.
+18/09/2018 18:48:14 devpinoyLogger Entered 200 in the text field.
+18/09/2018 18:48:14 devpinoyLogger value entered for column 3
+18/09/2018 18:48:15 devpinoyLogger table is clicked.
+18/09/2018 18:48:15 devpinoyLogger Entered 150 in the text field.
+18/09/2018 18:48:15 devpinoyLogger value entered for column 4
+18/09/2018 18:48:15 devpinoyLogger table is clicked.
+18/09/2018 18:48:16 devpinoyLogger Entered 100 in the text field.
+18/09/2018 18:48:16 devpinoyLogger value entered for column 5
+18/09/2018 18:48:16 devpinoyLogger table is clicked.
+18/09/2018 18:48:16 devpinoyLogger Entered 100 in the text field.
+18/09/2018 18:48:16 devpinoyLogger value entered for column 6
+18/09/2018 18:48:16 devpinoyLogger table is clicked.
+18/09/2018 18:48:17 devpinoyLogger Entered 100 in the text field.
+18/09/2018 18:48:17 devpinoyLogger value entered for column 7
+18/09/2018 18:48:17 devpinoyLogger table is clicked.
+18/09/2018 18:48:17 devpinoyLogger Entered 100 in the text field.
+18/09/2018 18:48:17 devpinoyLogger value entered for column 8
+18/09/2018 18:48:18 devpinoyLogger table is clicked.
+18/09/2018 18:48:18 devpinoyLogger Entered 100 in the text field.
+18/09/2018 18:48:18 devpinoyLogger value entered for column 9
+18/09/2018 18:48:18 devpinoyLogger table is clicked.
+18/09/2018 18:48:18 devpinoyLogger Entered 100 in the text field.
+18/09/2018 18:48:18 devpinoyLogger value entered for column 10
+18/09/2018 18:48:19 devpinoyLogger table is clicked.
+18/09/2018 18:48:19 devpinoyLogger Entered 50 in the text field.
+18/09/2018 18:48:19 devpinoyLogger value entered for column 11
+18/09/2018 18:48:19 devpinoyLogger table is clicked.
+18/09/2018 18:48:19 devpinoyLogger Entered 50 in the text field.
+18/09/2018 18:48:19 devpinoyLogger value entered for column 12
+18/09/2018 18:48:23 devpinoyLogger Clicking on Done button.
+18/09/2018 18:48:25 devpinoyLogger Actual as 1,270.0 and Expected as 1,270.0.Both are Matched.Assertion verified Successfully
+18/09/2018 18:48:27 devpinoyLogger Selected Update Product-Season option from ActionDropDownValue drop down successfully.
+18/09/2018 18:48:28 devpinoyLogger Entered Channel in the text field.
+18/09/2018 18:48:28 devpinoyLogger GlobalLamForecast is cleared.
+18/09/2018 18:48:28 devpinoyLogger Entered 32 in the text field.
+18/09/2018 18:48:28 devpinoyLogger GlobalNAForeCast is cleared.
+18/09/2018 18:48:29 devpinoyLogger Entered 12 in the text field.
+18/09/2018 18:48:29 devpinoyLogger GlobalEuForeCast is cleared.
+18/09/2018 18:48:29 devpinoyLogger Entered 13 in the text field.
+18/09/2018 18:48:29 devpinoyLogger GlobalAsiaForeCast is cleared.
+18/09/2018 18:48:29 devpinoyLogger Entered 14 in the text field.
+18/09/2018 18:48:30 devpinoyLogger GlobalPacificForecast is cleared.
+18/09/2018 18:48:30 devpinoyLogger Entered 15 in the text field.
+18/09/2018 18:48:33 devpinoyLogger Clicking on Save button.
+18/09/2018 18:48:35 devpinoyLogger Actual as 1,270.0 and Expected as 1,270.0.Both are Matched.Assertion verified Successfully
+18/09/2018 18:48:35 devpinoyLogger M04 - Update Wave Forecast Quantities - Manual TEST CASE HAS BEEN VERIFIED SUCCESSFULLY
+18/09/2018 18:48:35 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:35 devpinoyLogger SanitySuite1 Testdata row number 2 is skippped as runmode is set to N
+18/09/2018 18:48:36 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:36 devpinoyLogger SanitySuite1 Testdata row number 3 is skippped as runmode is set to N
+18/09/2018 18:48:36 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:36 devpinoyLogger SanitySuite1 Testdata row number 4 is skippped as runmode is set to N
+18/09/2018 18:48:37 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:37 devpinoyLogger SanitySuite1 Testdata row number 5 is skippped as runmode is set to N
+18/09/2018 18:48:37 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:37 devpinoyLogger SanitySuite1 Testdata row number 6 is skippped as runmode is set to N
+18/09/2018 18:48:37 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:37 devpinoyLogger SanitySuite1 Testdata row number 7 is skippped as runmode is set to N
+18/09/2018 18:48:38 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:38 devpinoyLogger SanitySuite1 Testdata row number 8 is skippped as runmode is set to N
+18/09/2018 18:48:38 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:38 devpinoyLogger SanitySuite1 Testdata row number 9 is skippped as runmode is set to N
+18/09/2018 18:48:38 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:38 devpinoyLogger SanitySuite1 Testdata row number 10 is skippped as runmode is set to N
+18/09/2018 18:48:38 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:38 devpinoyLogger SanitySuite1 Testdata row number 11 is skippped as runmode is set to N
+18/09/2018 18:48:39 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:39 devpinoyLogger SanitySuite1 Testdata row number 12 is skippped as runmode is set to N
+18/09/2018 18:48:39 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:39 devpinoyLogger SanitySuite1 Testdata row number 13 is skippped as runmode is set to N
+18/09/2018 18:48:39 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:39 devpinoyLogger SanitySuite1 Testdata row number 14 is skippped as runmode is set to N
+18/09/2018 18:48:39 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:39 devpinoyLogger SanitySuite1 Testdata row number 15 is skippped as runmode is set to N
+18/09/2018 18:48:40 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:40 devpinoyLogger SanitySuite1 Testdata row number 16 is skippped as runmode is set to N
+18/09/2018 18:48:40 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:40 devpinoyLogger SanitySuite1 Testdata row number 17 is skippped as runmode is set to N
+18/09/2018 18:48:40 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:40 devpinoyLogger SanitySuite1 Testdata row number 18 is skippped as runmode is set to N
+18/09/2018 18:48:41 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:41 devpinoyLogger SanitySuite1 Testdata row number 19 is skippped as runmode is set to N
+18/09/2018 18:48:41 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:41 devpinoyLogger SanitySuite1 Testdata row number 20 is skippped as runmode is set to N
+18/09/2018 18:48:41 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:41 devpinoyLogger SanitySuite1 Testdata row number 21 is skippped as runmode is set to N
+18/09/2018 18:48:41 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:41 devpinoyLogger SanitySuite1 Testdata row number 22 is skippped as runmode is set to N
+18/09/2018 18:48:42 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:42 devpinoyLogger SanitySuite1 Testdata row number 23 is skippped as runmode is set to N
+18/09/2018 18:48:42 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:42 devpinoyLogger SanitySuite1 Testdata row number 24 is skippped as runmode is set to N
+18/09/2018 18:48:42 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:42 devpinoyLogger SanitySuite1 Testdata row number 25 is skippped as runmode is set to N
+18/09/2018 18:48:42 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:42 devpinoyLogger SanitySuite1 Testdata row number 26 is skippped as runmode is set to N
+18/09/2018 18:48:43 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:43 devpinoyLogger SanitySuite1 Testdata row number 27 is skippped as runmode is set to N
+18/09/2018 18:48:43 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:43 devpinoyLogger SanitySuite1 Testdata row number 28 is skippped as runmode is set to N
+18/09/2018 18:48:43 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:43 devpinoyLogger SanitySuite1 Testdata row number 29 is skippped as runmode is set to N
+18/09/2018 18:48:43 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:43 devpinoyLogger SanitySuite1 Testdata row number 30 is skippped as runmode is set to N
+18/09/2018 18:48:43 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:43 devpinoyLogger SanitySuite1 Testdata row number 31 is skippped as runmode is set to N
+18/09/2018 18:48:44 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:44 devpinoyLogger SanitySuite1 Testdata row number 32 is skippped as runmode is set to N
+18/09/2018 18:48:44 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:44 devpinoyLogger SanitySuite1 Testdata row number 33 is skippped as runmode is set to N
+18/09/2018 18:48:44 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:44 devpinoyLogger SanitySuite1 Testdata row number 34 is skippped as runmode is set to N
+18/09/2018 18:48:44 devpinoyLogger No Driver is Launched
+18/09/2018 18:48:44 devpinoyLogger SanitySuite1 Testdata row number 35 is skippped as runmode is set to N
+18/09/2018 18:48:46 devpinoyLogger Skipping SanitySuite3 as runmode is set to no
+18/09/2018 18:48:46 devpinoyLogger Skipping SanitySuite2 as runmode is set to no
+18/09/2018 18:48:46 devpinoyLogger Skipping SanitySuite_AssortmentRetail as runmode is set to no
+18/09/2018 18:48:46 devpinoyLogger Skipping SanitySuiteUpdateProductName as runmode is set to no
+18/09/2018 18:48:48 devpinoyLogger Skipping SanitySuite5_WorkFlow as runmode is set to no
+18/09/2018 18:48:48 devpinoyLogger Skipping SanitySuite2018 as runmode is set to no
+18/09/2018 18:48:58 devpinoyLogger Skipping SanitySuite5_Workflow2 as runmode is set to no
+18/09/2018 18:48:58 devpinoyLogger Skipping SanitySuite4 as runmode is set to no

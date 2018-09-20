@@ -28,6 +28,18 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
           <skipped />
     </testcase>
+            <testcase name="reportTestcaseResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
+          <skipped />
+    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
           <skipped />
     </testcase>
@@ -65,18 +77,6 @@
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
-          <skipped />
-    </testcase>
-            <testcase name="reportTestcaseResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite3">

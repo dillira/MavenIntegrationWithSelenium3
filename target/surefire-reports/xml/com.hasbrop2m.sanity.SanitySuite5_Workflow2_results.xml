@@ -4,9 +4,15 @@
            failures="0"
            errors="0"
            skipped="20"
-           time="0.000">
+           time="0.002">
   <properties />
   
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
+          <skipped />
+    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
           <skipped />
     </testcase>
@@ -16,7 +22,19 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
           <skipped />
     </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
+          <skipped />
+    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
+          <skipped />
+    </testcase>
+            <testcase name="reportTestcaseResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
@@ -29,24 +47,6 @@
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
-          <skipped />
-    </testcase>
-            <testcase name="reportTestcaseResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">
           <skipped />
     </testcase>
             <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">

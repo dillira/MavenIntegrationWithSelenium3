@@ -4,37 +4,13 @@
            failures="0"
            errors="0"
            skipped="56"
-           time="0.003">
+           time="0.001">
   <properties />
   
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="checkTestcaseSkip" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
@@ -47,27 +23,6 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
@@ -85,16 +40,10 @@
             <testcase name="reportTestcaseResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
@@ -109,6 +58,18 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
           <skipped />
     </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
           <skipped />
     </testcase>
@@ -119,6 +80,45 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
+          <skipped />
+    </testcase>
+            <testcase name="checkTestcaseSkip" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">
           <skipped />
     </testcase>
             <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2">

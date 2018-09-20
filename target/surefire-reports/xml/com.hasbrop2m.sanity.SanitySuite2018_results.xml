@@ -4,12 +4,9 @@
            failures="0"
            errors="0"
            skipped="18"
-           time="0.001">
+           time="0.000">
   <properties />
   
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2018">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2018">
           <skipped />
     </testcase>
@@ -28,10 +25,13 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2018">
           <skipped />
     </testcase>
-            <testcase name="checkTestcaseSkip" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2018">
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2018">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2018">
+          <skipped />
+    </testcase>
+            <testcase name="checkTestcaseSkip" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2018">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite2018">

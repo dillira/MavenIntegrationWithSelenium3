@@ -4,7 +4,7 @@
            failures="0"
            errors="0"
            skipped="34"
-           time="81.700">
+           time="24.142">
   <properties />
   
             <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite1">
@@ -110,6 +110,6 @@
           <skipped />
     </testcase>
   
-            <testcase name="tcSCFunctional" time="81.681" classname="com.hasbrop2m.sanity.SanitySuite1" />
+            <testcase name="tcSCFunctional" time="23.978" classname="com.hasbrop2m.sanity.SanitySuite1" />
       
 </testsuite>

@@ -4,249 +4,9 @@
            failures="0"
            errors="0"
            skipped="752"
-           time="0.000">
+           time="0.005">
   <properties />
   
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -256,175 +16,25 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -439,18 +49,6 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -473,39 +71,21 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -520,33 +100,12 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -557,15 +116,6 @@
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -586,22 +136,7 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -610,25 +145,10 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -661,64 +181,16 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -727,9 +199,6 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -737,9 +206,6 @@
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -749,12 +215,6 @@
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -766,13 +226,7 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -800,12 +254,6 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -814,12 +262,6 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -839,12 +281,6 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -859,43 +295,19 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -905,9 +317,6 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -926,36 +335,21 @@
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -974,9 +368,6 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -991,10 +382,7 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1007,15 +395,9 @@
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1042,15 +424,6 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -1066,7 +439,7 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1076,9 +449,6 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1091,12 +461,6 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1112,42 +476,15 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1159,7 +496,7 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1180,15 +517,6 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -1199,93 +527,6 @@
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1312,6 +553,21 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -1327,10 +583,16 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1369,24 +631,6 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -1399,10 +643,7 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1412,12 +653,6 @@
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
-          <skipped />
-    </testcase>
-            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1450,10 +685,91 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1477,10 +793,82 @@
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
@@ -1504,6 +892,48 @@
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
@@ -1511,6 +941,576 @@
           <skipped />
     </testcase>
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
+          <skipped />
+    </testcase>
+            <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">
           <skipped />
     </testcase>
             <testcase name="tcSCFunctional" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite_AssortmentRetail">

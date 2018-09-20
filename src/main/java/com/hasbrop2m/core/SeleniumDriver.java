@@ -147,7 +147,7 @@ public class SeleniumDriver {
 		//String Url = "https://"+username+":"+password+"@"+testURL;
 		//String Url = "https://"+username+":"+password+"@"+devURL;
 		//	String Url = "https://"+username+":"+password+"@"+Sandboxurl;
-		Url = "https://"+username+":"+password+"@"+testURL;
+		Url = "https://"+username+":"+password+"@"+Sandboxurl;
 		log.info("Url: "+Url);
 		//driver.manage().timeouts().pageLoadTimeout(myAutomationWait, TimeUnit.SECONDS);
 		driver.get(Url);

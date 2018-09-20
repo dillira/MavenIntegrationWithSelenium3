@@ -3,8 +3,7 @@
    <groupId>com.project.hasbrop2m</groupId>
   <artifactId>Windchill_FlexPLM</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
-  <build>
+ <build>
         <!-- Source directory configuration -->
         <sourceDirectory>src</sourceDirectory>
         <plugins>
@@ -15,9 +14,10 @@
                 <version>2.22.0</version>
                 <configuration>
                 <!-- Suite testng xml file to consider for test execution -->
-                    <suiteXmlFiles>
+            <suiteXmlFiles>
                         <suiteXmlFile>${basedir}/Suites/sanitySuite2018.xml</suiteXmlFile>
                  </suiteXmlFiles>
+                 
                     <!-- Setting properties for test execution -->
      <properties>
      <!-- Setting ReportNG listeners -->
@@ -26,7 +26,7 @@
            <value>org.uncommons.reportng.HTMLReporter, org.uncommons.reportng.JUnitXMLReporter</value>
          </property>
      </properties>
-                </configuration>
+      </configuration>
             </plugin>
             <!-- Compiler plugin configures the java version to be used for compiling 
                 the code -->
@@ -36,6 +36,7 @@
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
+                       <skipTests>true</skipTests>
                 </configuration>
             </plugin>
         </plugins>
@@ -72,22 +73,12 @@
 		<artifactId>log4j</artifactId>
 		<version>1.2.17</version>
 	</dependency>
-	<dependency>
-		<groupId>net.sourceforge.jexcelapi</groupId>
-		<artifactId>jxl</artifactId>
-		<version>2.6</version>
-	</dependency>
-	<dependency>
-		<groupId>org.apache.poi</groupId>
-		<artifactId>poi</artifactId>
-		<version>3.12</version>
-	</dependency>
-	<dependency>
-		<groupId>org.apache.poi</groupId>
-		<artifactId>poi-ooxml</artifactId>
-		<version>3.9</version>
-	</dependency>
-	<dependency> 
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>3.12</version>
+</dependency>
+<dependency> 
     	<groupId>xml-apis</groupId>
     	<artifactId>xml-apis</artifactId>
     	<version>1.4.01</version>
@@ -107,11 +98,13 @@
 		<artifactId>velocity-dep</artifactId>
 		<version>1.4</version>
 	</dependency>
-	<dependency>
-    <groupId>dom4j</groupId>
-    <artifactId>dom4j</artifactId>
-    <version>1.6.1</version>
+
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>3.12</version>
 </dependency>
+
 </dependencies>
 </project>
 

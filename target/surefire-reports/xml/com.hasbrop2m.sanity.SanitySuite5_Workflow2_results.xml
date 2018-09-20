@@ -4,7 +4,7 @@
            failures="0"
            errors="0"
            skipped="20"
-           time="0.002">
+           time="0.001">
   <properties />
   
             <testcase name="reporterdataSetResult" time="0.0" classname="com.hasbrop2m.sanity.SanitySuite5_Workflow2">

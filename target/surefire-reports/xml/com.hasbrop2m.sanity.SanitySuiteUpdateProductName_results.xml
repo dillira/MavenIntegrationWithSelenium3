@@ -4,7 +4,7 @@
            failures="0"
            errors="0"
            skipped="902"
-           time="0.000">
+           time="0.002">
   <properties />
   
             <testcase name="Refresh" time="0.0" classname="com.hasbrop2m.sanity.SanitySuiteUpdateProductName">
